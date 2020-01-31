@@ -2,7 +2,7 @@ This is a program which will take in an image and draw a picture using a continu
 
 
 See if you can recognize this famous leader before scrolling down.
-![Alt text](maostring.png?raw=true "Leader")
+![Alt text](portraitstring.png?raw=true "Leader")
 
  In theory this could be done in the real world with thread wrapped around tacks.
 
@@ -78,4 +78,4 @@ See if you can recognize this famous leader before scrolling down.
 
 
 
-![Alt text](maosmol.png?raw=true "Mao Zedong")
+![Alt text](portraitsmall.png?raw=true "Mao Zedong")
